@@ -1,13 +1,13 @@
-id, student_id, subject, teacher, grade, date
-0, 1, Math, Ivanov. I. I, 4, 21.01.2022
-1, 1, OOP, Bulaev. S. A, 5, 10.01.2022
-2, 1, Philosophy, Avdeeva. U. I, 4, 05.01.2022
-3, 1, History, Ulakov. S. A, 3, 14.01.2022
-4, 2, Math, Ivanov. I. I, 5, 21.01.2022
-5, 2, OOP, Bulaev. S. A, 3, 10.01.2022
-6, 2, Philosophy, Avdeeva. U. I, 2, 05.01.2022
-7, 2, History, Ulakov. S. A, 3, 14.01.2022
-8, 3, Math, Ivanov. I. I, 5, 21.01.2022
-9, 3, OOP, Bulaev. S. A, 5, 10.01.2022
-10, 3, Philosophy, Avdeeva. U. I, 4, 05.01.2022
-11, 3, History, Ulakov. S. A, 5, 14.01.2022
+id,student_id,subject,teacher,grade,date
+0, 1, Math,Ivanov. I. I,4,21012022
+1, 1, OOP,Bulaev. S. A,5,10012022
+2, 1, Philosophy,Avdeeva. U. I,4,05012022
+3, 1, History,Ulakov. S. A,3,14012022
+4, 2, Math,Ivanov. I. I,5,21012022
+5, 2, OOP,Bulaev. S. A,3,10012022
+6, 2, Philosophy,Avdeeva. U. I,2,05012022
+7, 2, History,Ulakov. S. A,3,14012022
+8, 3, Math,Ivanov. I. I,5,21012022
+9, 3, OOP,Bulaev. S. A,5,10012022
+10, 3, Philosophy,Avdeeva. U. I,4,05012022
+11, 3, History,Ulakov. S. A,5, 14012022
