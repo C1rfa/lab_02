@@ -1,10 +1,6 @@
 id,first_name,middle_name,last_name,birth_date
 0,stephan,mironov,andreyevich,05.03.1995
-<<<<<<< HEAD
-1,ivan,frolov,mikhaylovich,16.11.1996
-=======
 1,ivan,frolov,mikhaylovich,16.06.1996
->>>>>>> dev
 2,sergey,semenov,ivanovich,30.04.1995
 3,irina,trostenuk,ivanovna,21.12.1999
 4,alexandr,zacharenko,victorovich,06.03.1993

@@ -13,7 +13,7 @@ spec.loader.exec_module(groupMod)
 menu_exit = False
 error_msg = ""
 answ = ''
-answList = [0, 1, 2]
+answList = ['0', '1', '2']
 while not menu_exit:
     if len(error_msg) > 0:
         print(error_msg)
@@ -23,7 +23,7 @@ while not menu_exit:
     print("0 - Exit")
     answ = input()
 
-    if int(answ) not in answList:
+    if answ not in answList:
         error_msg = "Wrong answer"
     else:
         if int(answ) == 1:
